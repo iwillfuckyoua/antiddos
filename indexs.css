@@ -27,7 +27,7 @@
   right: 4px;
 }
 .loader div {
-  width: 90%;
+  width: 100%;
   height: 100%;
   border-radius: 13px;
   position: relative;
@@ -238,4 +238,14 @@ body {
   align-items: center;
   background: #1C212E;
   font-family: "Roboto", Arial;
+}
+body .dribbble {
+  position: fixed;
+  display: block;
+  right: 24px;
+  bottom: 24px;
+}
+body .dribbble img {
+  display: block;
+  width: 76px;
 }
