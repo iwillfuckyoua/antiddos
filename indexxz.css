@@ -1,4 +1,6 @@
- a, body, div, html, img, p {
+.grecaptcha-badge { visibility: 'hidden'; } 
+
+a, body, div, html, img, p {
         margin: 0;
         padding: 0;
         border: 0;
