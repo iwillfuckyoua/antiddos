@@ -5,7 +5,7 @@
   --page: rgba(255, 255, 255, 0.36);
   --page-fold: rgba(255, 255, 255, 0.52);
   --duration: 3s;
-  width: 200px;
+  width: 260px;
   height: 140px;
   position: relative;
 }
@@ -238,14 +238,4 @@ body {
   align-items: center;
   background: #1C212E;
   font-family: "Roboto", Arial;
-}
-body .dribbble {
-  position: fixed;
-  display: block;
-  right: 24px;
-  bottom: 24px;
-}
-body .dribbble img {
-  display: block;
-  width: 76px;
 }
